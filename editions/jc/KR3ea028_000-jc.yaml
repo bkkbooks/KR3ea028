@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3ea028/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序靈樞素問其間問答多有重出處然猶二書無害也即一書亦有重出者豈其義理深奧不憚重於問答乎抑因論彼而復及此乎余茲選之亦未免重者重獨者逸惟求當其要而順其文耳覽者幸勿訝云錢塘胡文煥德甫識
   hash: sha256:627752f6432dc5222078924deba56a02ffbb716361082d58bf95f472719f5637
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3ea028_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 靈樞心得
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3ea028.xml
-hash: sha256:c6b306c8a0b54a03d40f639b1cc80634d9e02de20f31776d1eee946c77ba8af1
+hash: sha256:efcbb41a43cbdcee897f0392b4b91e74694c5834c73a8485a7d506f66ab8dbab
